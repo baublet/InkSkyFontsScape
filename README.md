@@ -1,5 +1,5 @@
 # InkSkyFontsScape
-Use SkyFonts with InkScape
+Use SkyFonts with InkScape and other font managers
 
 # Background
 
